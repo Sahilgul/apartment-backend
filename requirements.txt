@@ -1,0 +1,12 @@
+# requirements.txt
+flask==2.3.2
+flask-sqlalchemy==3.0.3
+flask-migrate==4.0.4
+flask-jwt-extended==4.5.2
+flask-cors==4.0.0
+python-dotenv==1.0.0
+werkzeug==2.3.6
+sqlalchemy==2.0.15
+gunicorn==20.1.0
+psycopg2-binary==2.9.6
+email-validator==2.0.0.post2
